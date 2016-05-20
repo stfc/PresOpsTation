@@ -1,0 +1,14 @@
+h1 {
+  font-size: 6rem;
+  color: #000;
+  padding-top: 29%;
+}
+
+.list-group-item {
+  width: 100%;
+}
+
+#template-list {
+  max-height: 250px;
+  overflow-y: auto;
+}
